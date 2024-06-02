@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+#   🧮 Calculadora React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao projeto **Calculadora React**! Uma calculadora desenvolvida em React para simplificar suas operações matemáticas.
 
-## Available Scripts
+## 💻 Tecnologias usadas
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+   <img width="12" />
+</div>
 
-In the project directory, you can run:
+## 🖥 Preview
 
-### `npm start`
+![Calculadora React](calc.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧮 Sobre o Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Este projeto é uma calculadora interativa desenvolvida em React, oferecendo uma interface intuitiva e elegante para realizar operações matemáticas básicas e avançadas. Se você procura uma forma simples e eficiente de calcular números, você está no lugar certo!
 
-### `npm test`
+## 🚀 Como Usar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone o repositório em sua máquina local.
+2. Navegue até o diretório do projeto.
+3. Execute `npm install` para instalar as dependências.
+4. Execute `npm start` para iniciar a aplicação.
+5. Abra [http://localhost:3000](http://localhost:3000) no seu navegador e comece a calcular!
 
-### `npm run build`
+## 🛠️ Principais Recursos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Interface limpa e intuitiva.
+- Suporte a operações básicas (adição, subtração, multiplicação, divisão).
+- Funcionalidade avançada para cálculos mais complexos.
+- Testes automatizados para garantir a qualidade do código.
+- Facilmente personalizável para atender às suas necessidades específicas.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🤝 Contribuindo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum problema ou tiver alguma ideia de melhoria, abra uma issue ou envie um pull request. Sua contribuição é muito bem-vinda!
 
-### `npm run eject`
+## Como Contribuir 🤝
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Faça um fork do projeto
+2. Crie uma branch para suas modificações (`git checkout -b feature/nova-feature`)
+3. Faça commit das suas alterações (`git commit -am 'Adicionando uma nova feature'`)
+4. Faça push para a branch (`git push origin feature/nova-feature`)
+5. Crie um novo Pull Request
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Autores ✒️
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Thiago Pereira](https://github.com/thiago-rspereira)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🌐 Conecte-se comigo nas redes sociais e vamos continuar essa jornada juntos!
 
-## Learn More
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/trspereira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trspereira)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Se você gostou deste projeto, não se esqueça de dar uma ⭐ no repositório!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📄 Licença
 
-### Code Splitting
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
