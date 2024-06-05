@@ -16,7 +16,8 @@ Bem-vindo ao projeto **Calculadora React**! Uma calculadora desenvolvida em Reac
 
 ## 🖥 Preview
 
-![Calculadora React](calc.png)
+![calculator](https://github.com/pereirathiagos/React-Calculadora/assets/133459464/1bf4a7d7-ed70-4590-b308-4e05f5418eca)
+
 
 ## 🧮 Sobre o Projeto
 
